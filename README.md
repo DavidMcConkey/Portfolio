@@ -41,9 +41,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#demonstration">Demonstration</a></li> 
     <li><a href="#features">Features</a></li>        
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -103,7 +101,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
       {
         index: 0,
         title: "Find me on Github",
-        href: "https://github.com/noworneverev",
+        href: "https://github.com/davidmcconkey",
         icon: <FaGithub />,
       },
     ];
@@ -134,14 +132,6 @@ docker-compose up
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Demonstration
-
-- The project is deployed to following two domains, and they are in synchronization.
-  - user site: [https://noworneverev.github.io/](https://noworneverev.github.io/)
-  - project site: [https://noworneverev.github.io/react-vscode-portfolio/](https://noworneverev.github.io/react-vscode-portfolio/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- USAGE EXAMPLES -->
 ## Features
 
@@ -156,25 +146,12 @@ docker-compose up
 - Google Analytics supported
 - Auto-deploy to gh-pages with github actions ready
 
-Markdown preview: https://noworneverev.github.io/#/docs
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.md` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-Yan-Ying Liao - [Personal Portfolio](https://noworneverev.github.io/) - n9102125@gmail.com
-
-Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://github.com/noworneverev/react-vscode-portfolio)
+David McConkey - [Personal Portfolio](https://davidmcconkey.github.io/) - davidmcconkey@outlook.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -186,7 +163,6 @@ Project Link: [https://github.com/noworneverev/react-vscode-portfolio](https://g
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
-* [caglarturali.github.io](https://github.com/caglarturali/caglarturali.github.io)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
