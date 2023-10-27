@@ -12,14 +12,10 @@
   <p align="center">
     A vscode inspired portfolio project
     <br />
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://noworneverev.github.io/">View Demo</a>
-    ·
     <a href="https://noworneverev.github.io/#/docs">Markdown prview</a>
-    ·
-    <a href="https://github.com/noworneverev/react-vscode-portfolio/issues">Report Bug</a>
+    
   </p>
 </div>
 
@@ -72,7 +68,7 @@ The project is inspired by [Visual Studio Code](https://github.com/microsoft/vsc
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/noworneverev/react-vscode-portfolio.git
+   git clone https://github.com/davidmcconkey/Portfolio.git
    ```
 2. Install NPM packages
    ```sh
