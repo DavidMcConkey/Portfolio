@@ -2,7 +2,10 @@ import {
   FaGithub,
   FaLinkedin,
   FaEnvelope,
+  FaBookmark
 } from "react-icons/fa";
+
+const pdfUrl = ''
 
 export const links = [
   {
@@ -23,4 +26,10 @@ export const links = [
     href: "mailto:davidmcconkey@outlook.com",
     icon: <FaEnvelope />,
   },
+  // {
+  //   index: 3,
+  //   title: "Check out my Resume",
+  //   href: "mailto:davidmcconkey@outlook.com",
+  //   icon: <FaBookmark />,
+  // },
 ];
