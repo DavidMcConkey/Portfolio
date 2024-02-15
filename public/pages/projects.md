@@ -1,5 +1,23 @@
 # 🧪 Projects
 
+## [Code Lexcicon](https://github.com/DavidMcConkey/Code-Lexicon)
+
+<em>The Code Lexicon is a tool which utilizes AI to translate code from one language to another!</em>
+
+-Tools Used: TypeScript, React, OpenAI, Next.js, Tailwind
+
+- **Efficiency and Time Savings**:
+
+  -The app significantly reduces the time and effort required for code translation, enabling developers to focus more on logic and functionality rather than syntax conversion.
+
+- **AI-Powered Accuracy**:
+
+  - Leveraging advanced artificial intelligence algorithms, Code Lexicon ensures high accuracy in code translation, minimizing the chances of errors and inconsistencies that may arise during manual conversion.
+
+- **Developer-Friendly Interace**:
+
+  -With an intuitive and user-friendly interface, Code Lexicon caters to both novice and experienced developers, making code translation accessible to a broader audience.
+
 ## [BarMate](https://github.com/DavidMcConkey/BarMate) 🔗
 
 <em>BarMate is the perfect tool for a bartender wanting to quickly check any cocktail recipe with a quick and responsive design.</em>
