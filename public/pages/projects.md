@@ -1,6 +1,6 @@
 # 🧪 Projects
 
-## [Code Lexcicon](https://github.com/DavidMcConkey/Code-Lexicon)
+## [Code Lexicon](https://github.com/DavidMcConkey/Code-Lexicon) 🔗
 
 <em>The Code Lexicon is a tool which utilizes AI to translate code from one language to another!</em>
 
