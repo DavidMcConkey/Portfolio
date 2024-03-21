@@ -1,5 +1,14 @@
 # 👨‍💻 Experience
 
+**Full-Stack Developer & Designer** - Red River Solutions Inc. (Canada) <em>(Nov 2023 - Current)</em>
+
+- Developed and managed a dynamic host website by leveraging a blend of front-end and back-end expertise, ensuring seamless functionality and user
+  experience.
+- Coordinated with cross-functional teams to ensure the website was aligned with project goals, responsive to stakeholder feedback, and optimized for
+  superior performance across various platforms.
+- Employed analytics tools and conducted thorough performance assessments to track website metrics, enabling data-driven decision-making for
+  continuous improvement and enhanced user engagement.
+
 **Full-Stack Developer & Designer** - Freelance Consultant <em>(Mar 2023 - Current)</em>
 
 - Crafted dynamic websites and web applications for small to medium-sized businesses, employing a tech
